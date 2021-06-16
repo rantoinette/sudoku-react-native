@@ -1,0 +1,5 @@
+export const FETCH_SUDOKU_NUMBERS = "FETCH_SUDOKU_NUMBERS";
+export const FILLED_NUMBERS = "FILLED_NUMBERS";
+export const GET_STATUS = "GET_STATUS";
+export const GET_PROFILE = "GET_PROFILE";
+export const GET_LEVEL = "GET_LEVEL";
